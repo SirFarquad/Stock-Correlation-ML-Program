@@ -1,7 +1,7 @@
 # Stock Correlation Program
 
 
-Welcome to the Stock Correlation Program! This project is all about analyzing stock data to predict future prices. Here’s a quick rundown of what you’ll find in this project and how to get started.
+Welcome to the Stock Correlation Program! This was created as my final project for CS50 during my Harvard Summer School 2024 term. This project analyzes historical stock data of the Japanese Yen and the Nasdaq 100 to find a correlation and predict future prices. Here’s a quick rundown of what you’ll find in this project and how to get started.
 
 ## What’s in This Project
 

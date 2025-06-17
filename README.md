@@ -47,3 +47,11 @@ Welcome to the Stock Correlation Program! This was created as my final project f
 ## Video
 
 - URL: https://youtu.be/9VdNzOuEZ6I
+
+## Contributing
+
+Contributions are welcome! If you have suggestions for improving the code or the simulations, feel free to open an issue or submit a pull request.
+
+## License
+
+This project is open source and available under the MIT License.
